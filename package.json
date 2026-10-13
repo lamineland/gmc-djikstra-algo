@@ -1,0 +1,17 @@
+{
+  "name": "dijkstra-algo",
+  "version": "1.0.0",
+  "description": "Dijkstra's shortest-path algorithm in JavaScript",
+  "type": "module",
+  "main": "dijkstra.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "dijkstra",
+    "graph",
+    "shortest-path",
+    "algorithm"
+  ],
+  "license": "MIT"
+}
